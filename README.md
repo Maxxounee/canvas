@@ -8,10 +8,17 @@
 `Cmd Shift B` - Terminal  
 `Cmd 1` - Project files tab  
 `Cmd E` - Recent Files  
-`Cmd 0` - Commit tab
+`Cmd 0 / Cmd K` - Commit tab  
+`Cmd Y` - Quick definition
 
 ### Work with code
 
 `Cmd W` - Extend selection  
 `Cmd Shift ↓↑` - Move expansion ↓↑  
 `Cmd D` - Duplicate  
+`Cmd F` - Find word in file  
+`Cmd Shift F` - Find words in files  
+`Cmd R` - Replace in file  
+`Alt Enter` - ***Quick fixes***  
+`Shift Enter` - Go to next line  
+`Cmd T` - ***Refactor this***

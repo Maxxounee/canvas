@@ -31,6 +31,7 @@ for (let i = 0; i < 10; i++) {
     const r = Math.random() * 255;
     const g = Math.random() * 255;
     const b = Math.random() * 255;
+
     c.strokeStyle = `rgba(${r}, ${g}, ${b}, 1)`;
     c.beginPath();
     c.arc(x, y, 10 + 10 * i, 0, Math.PI * 2, false);
