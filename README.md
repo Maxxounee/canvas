@@ -1,4 +1,4 @@
-# Shortcuts
+# Vladimirov's Art3d Shortcuts
 
 ### Work with files and IDE
 
@@ -7,11 +7,16 @@
 `Cmd Shift M` - New scratch file  
 `Cmd Shift B` - Terminal  
 `Cmd 1` - Project files tab  
-`Cmd 9` - Git tab
 `Cmd E` - Recent Files  
+`Cmd Y` - Quick definition  
+`Cmd N` - New file
+
+### Git
+
+`Cmd 9` - Git tab  
 `Cmd K` - Commit tab  
 `Cmd Shift K` - Push commit  
-`Cmd Y` - Quick definition
+`Cmd Shift J` - Create tag
 
 ### Work with code
 
@@ -21,6 +26,6 @@
 `Cmd F` - Find word in file  
 `Cmd Shift F` - Find words in files  
 `Cmd R` - Replace in file  
-`Alt Enter` - ***Quick fixes***  
+`Alt Enter` - Quick fixes   
 `Shift Enter` - Go to next line  
-`Cmd T` - ***Refactor this***
+`Cmd T` - Refactor this 
