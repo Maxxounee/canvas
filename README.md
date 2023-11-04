@@ -7,8 +7,10 @@
 `Cmd Shift M` - New scratch file  
 `Cmd Shift B` - Terminal  
 `Cmd 1` - Project files tab  
+`Cmd 9` - Git tab
 `Cmd E` - Recent Files  
-`Cmd 0 / Cmd K` - Commit tab  
+`Cmd K` - Commit tab  
+`Cmd Shift K` - Push commit  
 `Cmd Y` - Quick definition
 
 ### Work with code
